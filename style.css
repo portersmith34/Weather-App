@@ -104,3 +104,16 @@ body {
 .wind {
     font-size: 20px;
 }
+
+.weather {
+    display: none;
+}
+
+.error {
+    display: none;
+    text-align: left;
+    color: #fff;
+    font-size: 14px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
